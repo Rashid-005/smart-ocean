@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 650 480" role="img" aria-labelledby="title">
+  <title id="title">Smart Ocean Zanzibar</title>
+  <rect width="650" height="480" rx="18" fill="#E8F5FB"/>
+  <circle cx="325" cy="151" r="128" fill="#168FE2"/>
+  <circle cx="270" cy="119" r="5" fill="#BDEBFF" opacity=".8"/>
+  <circle cx="239" cy="146" r="4" fill="#BDEBFF" opacity=".7"/>
+  <path d="M359 77c16 11 29 11 45 0-8 19-19 26-31 26-11 0-21-7-30-18 13 5 24 5 36 0" fill="#E9F9FF"/>
+  <path d="M198 204c43-8 67-34 108-49 31-10 57-9 75 4 11 8 22 11 40 8-16 22-40 32-70 30-31-2-52-11-77-7-26 4-45 15-76 13Z" fill="#F4FBFF"/>
+  <path d="M174 221c43 2 78-21 121-27 44-7 70 11 106 17 31 5 55-5 81-27-10 38-35 62-77 68-37 6-69-10-103-17-40-8-77 11-128 13 16 14 45 21 78 20 48-2 72 18 117 20 37 3 67-6 99-32-15 38-47 63-92 68-43 5-75-13-109-26-40-14-75 7-118-6 21 29 59 47 105 48 34 1 63 11 87 30-62 5-114-6-151-29-38-24-63-64-78-122-3-11-11-21-36-32Z" fill="#073A83"/>
+  <path d="M226 264c38-14 74-19 112-9 29 8 53 24 91 23 21 0 40-5 59-16-21 30-48 46-83 47-37 2-66-16-98-27-30-10-56-10-81-2Z" fill="#F4FBFF"/>
+  <text x="54" y="365" fill="#07194B" font-family="Arial, Helvetica, sans-serif" font-size="79" font-weight="800" letter-spacing="-3">SMART</text>
+  <text x="303" y="365" fill="#0876D1" font-family="Arial, Helvetica, sans-serif" font-size="79" font-weight="800" letter-spacing="-3">OCEAN</text>
+  <text x="190" y="430" fill="#1486CE" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="500" letter-spacing="15">ZANZIBAR</text>
+</svg>
